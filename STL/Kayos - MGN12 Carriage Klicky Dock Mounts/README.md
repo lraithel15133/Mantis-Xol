@@ -1,1 +1,0 @@
-The Klicky dock and mount can be found in the MantisUsermods repo [here.](https://github.com/mandryd/MantisUsermods/tree/main/Usermods/KayosMaker/MGN12_Klicky/STLs)
