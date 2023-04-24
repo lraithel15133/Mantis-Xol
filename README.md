@@ -22,9 +22,19 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Bracing for PCB mounts
  - Quickdraw 2 support
  - Update DFA Bottom to latest version for slightly better heatset quality of life
- - Port nozzle LEDs to Xol 2
+ - Port nozzle LEDs to Xol 2 (see usermods)
  - Port MMU sensor support to Xol 2
  - Confirm fitment for MattTheBaker's Beacon
+
+#### Supported (incl. usermods/experimental):
+|Hotends |Extruders |Probes |
+|--- |--- |--- |
+| Rapido HF | Sherpa Mini | TAP |
+| Dragon SF/HF | Orbiter 2 | Beacon (normal) |
+| Revo Voron | Vz-hextrudort | (PCB) Klicky |
+| Phaetus XG | DropEffect | Euclid |
+| Bambulab | LGX Lite |--- |
+| Dragon UHF Mini / NF Crazy |--- |--- |
 
 ## Build Notes:
 This toolhead might require other modifications to retain full functionality of your printer. 
