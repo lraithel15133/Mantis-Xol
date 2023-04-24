@@ -1,5 +1,3 @@
-# Hey! You should be looking at the [Armchair Engineering fork](https://github.com/Armchair-Engineering/Mantis-Xol) for the most up-to-date version!
-
 # Mantis Xol 2
 ![image](https://cdn.discordapp.com/attachments/929168771216723968/1020895467674026024/unknown.png)
 
@@ -83,4 +81,5 @@ This toolhead might require other modifications to retain full functionality of 
 [Nionio6915](https://github.com/nionio6915/Euclid_Probe) for Euclid. <br/>
 [VoronDesign](https://github.com/VoronDesign) for this particular CoreXY flavor.<br/>
 [AnnexEngineering](https://github.com/Annex-Engineering) for the Sherpa Mini and Double Folded Ascender extruders, and the K3 that influenced the air management of the ducts. And also for giving access to an early revision of the new DFA so it could be adapted for this toolhead.<br/>
-[Clee](https://github.com/clee), you know what you did.
+[Clee](https://github.com/clee), you know what you did.  
+[Takuya](https://github.com/T4KUUY4)... just added the 36mm SB2040 mount
