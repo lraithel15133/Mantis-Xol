@@ -8,15 +8,22 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Cooler: Still a little ugly but better
  - Lighter: 260g-ish for Sherpa Mini
  - Rigid-er: I want to throw this thing across the room
- - DropEffect × Phaetus XG support 
- - Revo Voron Support
- - Support for MattTheBaker's Beacon and VoronDesign's Tap
 
 #### Features:
  - Better airflow than Stealthburner (6-7 CFM through short ducts vs 4.6-5.2 CFM through long ducts)
  - Improved resonance management compared to Mantis 5015
  - Support for Sherpa Mini-pattern extruder mounting as well as Annex Engineering's **Double Folded Ascender** worm gear extruder
  - Support for JosAr's Klicky, VinnyCordeiro and WhoppingPochard's PCB Klicky, and Nionio6915's Euclid
+ 
+#### Supported (incl. usermods/experimental):
+|Hotends |Extruders |Probes |
+|--- |--- |--- |
+| Rapido HF | Sherpa Mini | VoronDesign's TAP |
+| Dragon SF/HF | Orbiter 2 | Beacon (normal) |
+| Revo Voron | Vz-hextrudort | (PCB) Klicky |
+| Phaetus XG | DropEffect | Euclid |
+| Bambulab | LGX Lite |--- |
+| Dragon UHF Mini / NF Crazy |--- |--- |
  
 #### Future Development (No ETA):
  - Bracing for PCB mounts
@@ -26,15 +33,6 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Port MMU sensor support to Xol 2
  - Confirm fitment for MattTheBaker's Beacon
 
-#### Supported (incl. usermods/experimental):
-|Hotends |Extruders |Probes |
-|--- |--- |--- |
-| Rapido HF | Sherpa Mini | TAP |
-| Dragon SF/HF | Orbiter 2 | Beacon (normal) |
-| Revo Voron | Vz-hextrudort | (PCB) Klicky |
-| Phaetus XG | DropEffect | Euclid |
-| Bambulab | LGX Lite |--- |
-| Dragon UHF Mini / NF Crazy |--- |--- |
 
 ## Build Notes:
 This toolhead might require other modifications to retain full functionality of your printer. 
