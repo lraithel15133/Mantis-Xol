@@ -4,13 +4,12 @@
 ## Description
 Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant started as an attempt to improve parts cooling, spurred on by Derpimus' noted cooling woes on his DOOMCube. After finding that the 5020s were just plain too fat to fit without looking like a standard Ender 3 Thingiverse special, I abandoned the large fan dream in favor of better cooling efficiency and lighter weight. This new and improved dream was also corrupted by my then budding and now all-consuming love for worm gears.
 
+https://discord.gg/armchairengineeringsux
+
 ## New Features for Xol 2
  - Cooler: Still a little ugly but better
  - Lighter: 260g-ish for Sherpa Mini
  - Rigid-er: I want to throw this thing across the room
- - DropEffect × Phaetus XG support 
- - Revo Voron Support
- - Support for MattTheBaker's Beacon and VoronDesign's Tap
 
 #### Features:
  - Better airflow than Stealthburner (6-7 CFM through short ducts vs 4.6-5.2 CFM through long ducts)
@@ -18,13 +17,24 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Support for Sherpa Mini-pattern extruder mounting as well as Annex Engineering's **Double Folded Ascender** worm gear extruder
  - Support for JosAr's Klicky, VinnyCordeiro and WhoppingPochard's PCB Klicky, and Nionio6915's Euclid
  
+#### Supported (incl. usermods/experimental):
+|Hotends |Extruders |Probes |
+|--- |--- |--- |
+| Rapido HF | Sherpa Mini | VoronDesign's TAP |
+| Dragon SF/HF | Orbiter 2 | Beacon (normal) |
+| Revo Voron | Vz-hextrudort | (PCB) Klicky |
+| Phaetus XG | DropEffect | Euclid |
+| Bambulab | LGX Lite |--- |
+| Dragon UHF Mini / NF Crazy |--- |--- |
+ 
 #### Future Development (No ETA):
  - Bracing for PCB mounts
  - Quickdraw 2 support
  - Update DFA Bottom to latest version for slightly better heatset quality of life
- - Port nozzle LEDs to Xol 2
+ - Port nozzle LEDs to Xol 2 (see usermods)
  - Port MMU sensor support to Xol 2
  - Confirm fitment for MattTheBaker's Beacon
+
 
 ## Build Notes:
 This toolhead might require other modifications to retain full functionality of your printer. 
