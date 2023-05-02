@@ -1,0 +1,1 @@
+Use standard ducts for SF/HF variants.
