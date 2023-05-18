@@ -10,6 +10,21 @@ There are now two versions to choose from. v1 is as per the render above. V2 is 
 
 ![v2 render](images/cadv2-1.png)
 
+## What to print?
+Print the ducts that suit your build. Standard or TAP availble for normal lenght or UHF length ducts are available
+
+Print the faceplate parts for the version you want.
+Both versions support neopixel and rainbow barf options.
+Both versions require faceplate parts 1 & 2 and a diffuser to suit.
+v1 requires an extra logo plate to be printed.
+
+I recommend printing all of the faceplate parts, and diffuser parts in 0.1mm layer height 0.25 first layer will work fine.
+Ducts can be printed the same as for standard Xol 2 ducts. Smaller layer heights may give you smoother walls on your ducts. I used 0.15mm layers.
+
+## Assembly
+This section is a work in progress.
+for v2, standard neopixel versions, it works well to glue the white diffuser into the faceplate 1 part with a tiny drop of super glue.
+
 ## Wiring
 
 Wires route under either side of the Xol 2 (behind a fan) and accross the 1st part of the faceplate where the status LED is inserted. Then behind the other fan before going down to the first duct. Then back accross to the other side under the 25mm hotend cooling fan behind the faceplate parts to the other duct. Look at the pictures below 😎
