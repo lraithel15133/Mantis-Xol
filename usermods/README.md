@@ -10,4 +10,6 @@
 |DW-Tas |SB Led Mod |Adds support to reuse your SB LEDs for a decretive LED logo on the hotend mount |
 |DW-Tas |VZ Hextrudort + LGX Lite Extruders |Adds support for VZ Hextrudort and LGX lite extruders |
 |iniqy | Dragon hotend | Adds Dragon SF/HF/UHF/Crazy hotend support for VZ Hextrudort + LGX Lite Extruders (print with a Sherpa carriage) [TAP/No-TAP] |
-| Kayos | Klicky dock and mount | can be found in the MantisUsermods repo [here.](https://github.com/mandryd/MantisUsermods/tree/main/Usermods/KayosMaker/MGN12_Klicky/STLs) |
+|KayosMaker| Klicky dock and mount | can be found in the MantisUsermods repo [here.](https://github.com/mandryd/MantisUsermods/tree/main/Usermods/KayosMaker/MGN12_Klicky/STLs) |
+|KayosMaker| EBB36 and SHT36 Mounts for No-TAP Carriages | Mounts to carriage and can optionally tie in to Sherpa or VZHextrudort with a standoff. See repo linked below for printable standoffs. |
+|KayosMaker| EBB36 and SHT36 Universal Mounts | Mounts to extruder motor screws via standoffs. Standoffs included that can be used for above mount, once gap is measured.  External repo [here.](https://github.com/KayosMaker/CANboard_Mounts) |
