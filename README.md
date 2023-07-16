@@ -1,3 +1,5 @@
+# Mantis Xol 2 has been discontinued! Big update pushed which is much easier to assemble, maintain, and use. (https://github.com/Armchair-Engineering/Xol-Toolhead)
+
 # Mantis Xol 2
 ![image](https://cdn.discordapp.com/attachments/929168771216723968/1020895467674026024/unknown.png)
 
